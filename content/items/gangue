@@ -1,0 +1,4 @@
+type: resource
+name: Gangue
+description: Worthless rocks extracted from ore
+color: ffffff
